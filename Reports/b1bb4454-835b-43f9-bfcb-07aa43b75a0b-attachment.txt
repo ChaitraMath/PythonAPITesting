@@ -1,0 +1,4 @@
+10058055
+{"status":"true","msg":"Add  data success"}
+{"status":"true","msg":"Add  data success"}
+{"status":"true","data":{"first_name":"Test","middle_name":"k","last_name":"case","date_of_birth":"12/78/7895","TechnicalDetails":[{"id":756251,"language":["python","C"],"yearexp":"2","lastused":"2013","st_id":"10058055"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"10058055"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"10058055"}]}}
